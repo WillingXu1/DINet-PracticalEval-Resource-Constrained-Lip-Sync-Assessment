@@ -1,0 +1,1 @@
+# DINet-PracticalEval-Resource-Constrained-Lip-Sync-Assessment
