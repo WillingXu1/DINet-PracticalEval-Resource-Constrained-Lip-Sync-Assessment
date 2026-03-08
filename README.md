@@ -31,11 +31,8 @@
 3.  **长期（扩展）**：研究多模态（音频、文本、视觉特征）融合，提升自然度与泛化能力，拓宽产品场景。
 
 ## 📄 引用与致谢
-- 本研究基于原始论文 [DINet]([原论文链接]) 进行复现与扩展。
+- 本研究基于原始论文 [DINet](https://arxiv.org/pdf/2303.03988) 进行复现与扩展。
 - 感谢项目小组成员的共同努力。
-
-## �📝 许可证
-本项目采用 MIT 许可证[LICENSE](https://github.com/WillingXu1/DINet-PracticalEval-Resource-Constrained-Lip-Sync-Assessment/blob/008818400c012259af068aafdc22d994bbf42eef/LICENSE)。
 
 
 ## 免责声明与用途说明
